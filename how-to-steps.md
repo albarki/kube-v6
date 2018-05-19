@@ -72,7 +72,7 @@ apt-get install -y kubelet kubeadm kubectl
 
 
 
-####On kube-node-1, create a CNI network plugin using pod subnet fd00:101::/64:
+#### On kube-node-1, create a CNI network plugin using pod subnet fd00:101::/64:
 
 ```
 sudo -i
